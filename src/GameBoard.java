@@ -34,9 +34,9 @@ public class GameBoard {
         "XXXXXXXXXXXXXXXXXXX",
         "X        X  s     X",
         "X XX XXX X XXX XX X",
-        "X                 X",
+        "X  s              X",
         "X XX X XXXXX X XX X",
-        "X    X       X    X",
+        "X    X       X p  X",
         "XXXX XXXX XXXX XXXX",
         "X   X  r    X X   X",
         "X X X XX XX X X X X",
@@ -50,7 +50,7 @@ public class GameBoard {
         "XX X X XXXXX X X XX",
         "X    X   X   X    X",
         "X XXXXXX X XXXXXX X",
-        "X                 X",
+        "X        r        X",
         "XXXXXXXXXXXXXXXXXXX"
     };
 
