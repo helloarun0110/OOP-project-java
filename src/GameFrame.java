@@ -18,7 +18,7 @@ public class GameFrame extends JFrame {
         setLocationRelativeTo(null);
         setVisible(true);
 
-        panel.requestFocusInWindow(); //Makes the GamePanel receive keyboard input focus
+        panel.requestFocusInWindow(); 
         
     }
 
